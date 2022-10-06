@@ -1,0 +1,24 @@
+Question 4 - homework
+Which of the following statements comparing component testing and system
+testing is TRUE?
+b) Test cases for component testing are usually derived from component
+specifications, design specifications, or data models, whereas test cases for
+system testing are usually derived from requirement specifications or use
+cases
+
+Question 5 - homework
+Which of the following statements about test types and test levels is
+CORRECT?
+d) Functional and non-functional testing can be performed at any test level, while
+white-box testing is restricted to component and integration testing
+
+Question 6 - homework
+Consider the following types of defects that a test level might focus on:
+1. Defects in separately testable modules or objects
+2. Not focused on identifying defects
+3. Defects in interfaces and interactions
+4. Defects in the whole test object
+
+Which of the following list correctly matches test levels from the Foundation syllabus with
+the defect focus options given above?
+c) 1 = component test; 2 = acceptance test; 3 = integration test; 4 = system test
